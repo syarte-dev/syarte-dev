@@ -1,5 +1,5 @@
 - 👋 Hello, I'm Laís Braz
-- 👀 I'm interested in becoming a software developer
+- 👀 I'm interested in becoming a software developer fullstack
 - 🌱 I am currently learning Java Script language
 - 📫 How to contact me syarte.dev@gmail.com😄
 - Pronouns: She
